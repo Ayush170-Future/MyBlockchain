@@ -1,2 +1,2 @@
 # MyBlockchain
-This is a simple two blocks blockchain I created just for fun.
+This is a simple two blocks blockchain I created using Java just for fun.
